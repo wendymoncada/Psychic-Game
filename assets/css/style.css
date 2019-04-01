@@ -1,0 +1,43 @@
+html {
+    background-color: rgb(107, 112, 61);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-image: url("../../assets/images/dots.png");
+}
+
+header {
+    margin: 100px;
+    color: rgb(225, 235, 138);
+}
+
+.game-container {
+    font-size: 20px;
+    line-height: 40px;
+    background-color: white;
+    border: solid rgb(225, 235, 138);
+    width: 700px;
+    height: 210px;
+    padding: 20px;
+    position: relative;
+    margin-top: 100px;
+    margin: 0px auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    line-height: 90px;
+}
+
